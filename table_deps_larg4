@@ -1,0 +1,4 @@
+setupRequired(artg4tk v10_05_02 -q +e20:+prof)
+setupRequired(larevt v09_05_08 -q +e20:+prof)
+setupRequired(nug4 v1_12_02 -q +e20:+prof)
+setupRequired(nurandom v1_08_01 -q +e20:+prof)
